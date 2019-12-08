@@ -1,0 +1,16 @@
+# Blocks Bad CDNs
+(^|\.)([A-Za-z0-9.-]*\.)?netdna-cdn\.com$
+(^|\.)(ssl|wpc)\.rncdn[0-9?].com$
+(^|\.)agoda\.(net|com)$
+(^|\.)ali(yun|yuncs)|cdn)\.com$
+(^|\.)coin(gecko|traffic)\.(com|io)$
+(^|\.)fastfreeredics[0-9]\.life$
+(^|\.)go88\.(com|site)$
+(^|\.)hear(st|stapps)\.com$
+(^|\.)imglnk[a-z].com$
+(^|\.)jwp(ltx|srv)\.com$
+(^|\.)monad(plug|-rtb)\.com$
+(^|\.)slatic\.(net|ne)$
+^([A-Za-z.-]*\.)?trafficjunky[-.]
+^(galleryn|pt-static)[0-9?].(awe(mwh|stc)|jsmstat)\.com$
+^platform?[0-9]*[-_.]

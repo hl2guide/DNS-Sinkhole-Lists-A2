@@ -1,0 +1,2 @@
+# Blocks by TLD
+.(ru|cn|ro|ml|ga|gq|cf|tk|pw|ua|ug|ve|info|site|club|host|party)$

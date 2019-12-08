@@ -1,0 +1,6 @@
+# Blocks Social Media Sites
+0.0.0.0 >twitter.com >facebook.com
+0.0.0.0 >pinterest.com >instagram.com
+0.0.0.0 >weibo.com >ask.fm
+0.0.0.0 >tumblr.com >flickr.com
+0.0.0.0 >linkedin.com

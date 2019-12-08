@@ -1,0 +1,55 @@
+# Blocks Advertising
+((^)|(.))adchoice.
+((^)|(.))adsdk.
+((^)|(.))adserv.
+(^|\.)ad[sv]?\d*\
+(^|\.)adform\.net$
+(^|\.)adocean\.pl$
+(^|\.)adsbtrack\.com$
+(^|\.)adserver\.snapads\.com$
+(^|\.)audienceinsights\.net$
+(^|\.)behavioralengine\.com$
+(^|\.)clickmatic\.pl$
+(^|\.)hit\.gemius\.pl$
+(^|\.)hit\.interia\.pl$
+(^|\.)lcx\.pl$
+(^|\.)meetrics\.net$
+(^|\.)mylead\.global$
+(^|\.)popcash\.net$
+(^|\.)smartadserver\.com$
+(^|\.)unknow\.now\.sh$
+^(.+[-_.])??ad[sxv]?[0-9]*[-_.]
+^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
+^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
+^(.+[-_.])??xn--
+^adim(age|g)s?[0-9]*[-_.]
+^adser(ving|ver|vice)?
+^adtrack(er|ing)?[0-9]*[-.]
+^adv\.
+^advert(s|is(ing|ements?))?[0-9]*[-_.]
+^advserver\.
+^banners?[-.]
+^gstaticadssl?
+^yoads?
+
+# Blocks Advertising on imagetwist.com
+0.0.0.0 >justservingfiles.net >exosrv.com >livejasmin.com
+
+# Blocks Roku Ads
+(ads|logs|cloudservices|captive).roku.com$
+
+# Blocks Game Ads
+(^|\.)buffpanel\.com$
+(^|\.)bugsnag\.com$
+(^|\.)redshell\.io$
+(^|\.)treasuredata\.com$
+(^|\.)unity(|3d)\.com$
+(^|\.)unityads(|\.co)\.com$
+
+# Blocks Ads for LG webOS TVs
+(^|\.)ad\.lgsmartad\.com$
+(^|\.)lgsmartad\.com$
+(^|\.)lgtvsdp\.com$
+(^|\.)myhomescreen\.tv$
+lgtvonline.lge.com
+ngfts.lge.com

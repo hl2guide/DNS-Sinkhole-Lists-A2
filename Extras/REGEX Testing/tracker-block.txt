@@ -1,0 +1,16 @@
+# Blocks Trackers and Analytics Sites
+((^)|(.))analytic.
+((^)|(.))metric.
+((^)|(.))telemetry.
+((^)|(.))tracking.
+^(.+[-_.])??telemetry[-.]
+^aff(iliat(es?|ion))?[-.]
+^analytics?[-.]
+^beacons?[0-9]*[-.]
+^count(ers?)?[0-9]*[-.]
+^pixel\.
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[-.]
+^telemetry[-.]
+^track(ers?|ing)?[0-9]*[-.]
+^traff(ic)?[-.]
