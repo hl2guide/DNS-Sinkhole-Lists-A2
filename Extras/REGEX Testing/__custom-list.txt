@@ -1,0 +1,5 @@
+# Custom Domain Entries
+
+# Blocks Lame Sites
+0.0.0.0 >kotaku.com >kotaku.com.au
+0.0.0.0 >example.com
