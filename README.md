@@ -26,23 +26,13 @@ There are four options:
 
 This **readme** created using https://stackedit.io
 
-## News (as of 03-12-2019 AEST)
+## News (as of 18-01-2019 AEST)
 
-Shard 4 testing is underway :D
+Shard 4 testing has completed and I've decided to archive this repo as is. No more commits will occur in this repo.
+
+I'm personally investigating creating a more efficient method using regular expressions and a far smaller list (<500KB).
 
 This repo is in flux, suitable for testers only and should not be considered stable.
-
-Shard 4 testing should be the last test round before the release of Beta 1.
-
-I'm currently testing alpha 2 with plans to test until at least March 2020.\
-I will fold this into a related project when it's ready.
-
-I've upgraded the generator script to have an initial allow list, improving generation.
-
-I've decided to pause commits for December 2019. The commit frequency will return to every 6 hours early in the new year.
-
-Please request domain whitelisting for domains that are blocked by mistake\
-in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSelgN7d68f4nbqU6SyqluIpwSqE5g-mDvAI6O84IIyHHB2YOA/viewform?usp=pp_url).
 
 ## How it Works
 
