@@ -1,0 +1,6 @@
+@@||aka.ms^$important
+@@||crapblock.theel0ja.info^$important
+@@||dc.services.visualstudio.com^$important
+@@||localhost.megasyncloopback.mega.nz^$important
+@@||slscr.update.microsoft.com^$important
+@@||update.code.visualstudio.com^$important
