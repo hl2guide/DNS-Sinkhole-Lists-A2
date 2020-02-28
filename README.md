@@ -3,7 +3,7 @@
 
 ![Logo](https://images2.imgbox.com/f7/d1/eTBopT91_o.png)
 
-## Description
+## Description 📚
 
 A collection of DNS Sinkhole lists for testing purposes.\
 (not for use in production systems)
@@ -26,7 +26,9 @@ There are four options:
 
 This **readme** created using https://stackedit.io
 
-## News (as of 18-01-2019 AEST)
+## News 📰
+
+### (as of 28-01-2020 AEST)
 
 Shard 4 testing has completed and I've decided to archive this repo as is. No more commits will occur in this repo.
 
@@ -34,7 +36,7 @@ I'm personally investigating creating a more efficient method using regular expr
 
 This repo is in flux, suitable for testers only and should not be considered stable.
 
-## How it Works
+## How it Works ❓
 
 The combined list contains:
 
@@ -49,7 +51,7 @@ Testers can test in these supported HOSTS/domain managers:
 
 Testers please use **only one** of the below raw text links.
 
-## Combined List Files
+## Combined List Files 🗃️
 
 Pick one appropriate list from the below four:
 
@@ -60,7 +62,7 @@ Pick one appropriate list from the below four:
 | [*COMBINED_LISTS_GENERATED/<br/>0_combined_blocklist <br/>(social media allowed).txt*](https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/COMBINED_LISTS_GENERATED/0_combined_blocklist%20%28social%20media%20allowed%29.txt) | contains 'block_list', 'tld_blocklist_international'<br/>and 'tld_most_abused' and 'typosquatting_blocklist'<br/>*(users within North America or Australia) - Social Media Allowed [not recommended]* |
 | [*COMBINED_LISTS_GENERATED/<br/>0_combined_blocklist_international <br/>(social media allowed).txt*](https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/COMBINED_LISTS_GENERATED/0_combined_blocklist_international%20%28social%20media%20allowed%29.txt) | ditto but for international users<br/>*(for users outside of North America and Australia)  - Social Media Allowed [not recommended]* |
 
-## Separated List Files
+## Separated List Files 📂
 
 For reference only.
 
@@ -73,7 +75,7 @@ For reference only.
 | [*tld_most_abused.txt*](https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/tld_most_abused.txt) | a list of the **most abused TLDs** |
 | [*typosquatting_blocklist*](https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosquatting_blocklist.txt) | a list of often mistyped domains for popular websites |
 
-## Changelog
+## Changelog 📜
 
 ### 26-11-2019 at 5PM AEST
 - Extended testing phase out to at least March 2020
@@ -95,11 +97,11 @@ For reference only.
 
 - Added the world's most popular TLDs into the filter for included lists during generation
 
-## Credits
+## Credits 😀
 
 Credit and copyright belongs to the below list creators. Thanks for their tireless work :D
 
-## Included Lists
+## Included Lists 🗂️
 
 AdGuard Ad Domains\
 Blocks ad serving domains.\
