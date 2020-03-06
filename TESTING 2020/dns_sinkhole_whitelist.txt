@@ -1,6 +1,9 @@
 @@||aka.ms^$important
 @@||crapblock.theel0ja.info^$important
 @@||dc.services.visualstudio.com^$important
+@@||dl.delivery.mp.microsoft.com^$important
+@@||guts2.sp.f-secure.com^$important
 @@||localhost.megasyncloopback.mega.nz^$important
 @@||slscr.update.microsoft.com^$important
+@@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
 @@||update.code.visualstudio.com^$important
