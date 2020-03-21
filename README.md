@@ -1,5 +1,5 @@
 
-# DNS-Sinkhole-Lists-A2 (Alpha 2 - Shard 4)
+# DNS-Sinkhole-Lists-A2
 
 ![Logo](https://images2.imgbox.com/f7/d1/eTBopT91_o.png)
 
