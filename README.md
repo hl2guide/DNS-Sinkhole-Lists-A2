@@ -3,6 +3,17 @@
 
 ![Logo](https://images2.imgbox.com/f7/d1/eTBopT91_o.png)
 
+## Important News 📰
+
+### (as of April 7, 2020)
+
+I've made the final decision to deprecate this repo since it isn't achieving my expected outcomes. No more commits will be made.
+
+I advise that you consider making the switch (like I have) to using one of AdGuard's free products:
+- AdGuard Home: https://github.com/AdguardTeam/AdGuardHome/wiki/Getting-Started#installation
+- Browser Extension: https://adguard.com/en/adguard-browser-extension/overview.html
+- AdGuard DNS (in Beta): https://adguard.com/en/adguard-dns/overview.html
+
 ## Description 📚
 
 A collection of DNS Sinkhole lists for testing purposes.\
@@ -25,16 +36,6 @@ There are four options:
  - combined international (all other countries) - *Social Media Allowed*
 
 This **readme** created using https://stackedit.io
-
-## News 📰
-
-### (as of 28-01-2020 AEST)
-
-Shard 4 testing has completed and I've decided to archive this repo as is. No more commits will occur in this repo.
-
-I'm personally investigating creating a more efficient method using regular expressions and a far smaller list (<500KB).
-
-This repo is in flux, suitable for testers only and should not be considered stable.
 
 ## How it Works ❓
 
