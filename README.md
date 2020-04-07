@@ -1,5 +1,5 @@
 
-# DNS-Sinkhole-Lists-A2
+# DNS-Sinkhole-Lists-A2 [deprecated]
 
 ![Logo](https://images2.imgbox.com/f7/d1/eTBopT91_o.png)
 
