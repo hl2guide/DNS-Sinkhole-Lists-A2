@@ -7,6 +7,8 @@
 
 🛑 This repo is no longer maintained.
 
+🥶 The repo is archived, I don't expect to do more work on it.
+
 ### (as of April 7, 2020)
 
 I've made the final decision to deprecate this repo since it isn't achieving my expected outcomes. No more commits will be made.
